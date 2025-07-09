@@ -1,6 +1,6 @@
 # Uber ride Insight 
 
-*# " This project analyzes one year of Uber ride data using Power BI to uncover usage patterns and actionable business insights. The dashboard offers a dynamic view of trip behavior by time, purpose, category, and seasonality. "*
+*" This project analyzes one year of Uber ride data using Power BI to uncover usage patterns and actionable business insights. The dashboard offers a dynamic view of trip behavior by time, purpose, category, and seasonality. "*
 
 # Analysis Steps :
 
@@ -8,7 +8,7 @@
 
 ---> Generated summary statistics to understand key metrics 
 
-# ---> Data Cleaning & Transformation :-
+ ---> Data Cleaning & Transformation :-
 
 - Handled missing values in the "Purpose" column using logical imputations 
 
